@@ -44,4 +44,12 @@ This repository contains my leetcode solutions in java
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/bhavika013/leetcode/tree/master/0810-chalkboard-xor-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/bhavika013/leetcode/tree/master/0443-string-compression) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/bhavika013/leetcode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
