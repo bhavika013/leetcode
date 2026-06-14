@@ -9,6 +9,7 @@ This repository contains my leetcode solutions in java
 | [0169-majority-element](https://github.com/bhavika013/leetcode/tree/master/0169-majority-element) |
 | [0769-max-chunks-to-make-sorted](https://github.com/bhavika013/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0810-chalkboard-xor-game](https://github.com/bhavika013/leetcode/tree/master/0810-chalkboard-xor-game) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/bhavika013/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2574-left-and-right-sum-differences](https://github.com/bhavika013/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Stack
 |  |
@@ -35,10 +36,12 @@ This repository contains my leetcode solutions in java
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/bhavika013/leetcode/tree/master/0810-chalkboard-xor-game) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/bhavika013/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/bhavika013/leetcode/tree/master/0810-chalkboard-xor-game) |
+| [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/bhavika013/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Brainteaser
 |  |
 | ------- |
