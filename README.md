@@ -7,6 +7,7 @@ This repository contains my leetcode solutions in java
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/bhavika013/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/bhavika013/leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/bhavika013/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0769-max-chunks-to-make-sorted](https://github.com/bhavika013/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0810-chalkboard-xor-game](https://github.com/bhavika013/leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/bhavika013/leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -31,6 +32,7 @@ This repository contains my leetcode solutions in java
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/bhavika013/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2574-left-and-right-sum-differences](https://github.com/bhavika013/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
