@@ -5,6 +5,7 @@ This repository contains my leetcode solutions in java
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bhavika013/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/bhavika013/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/bhavika013/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/bhavika013/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -76,4 +77,8 @@ This repository contains my leetcode solutions in java
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/bhavika013/leetcode/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bhavika013/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
